@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72">
+  <!-- una barra cargada: discos grandes por dentro, chicos por fuera -->
+  <rect x="18" y="18" width="72" height="72" fill="#1C1A18"/>
+  <path fill="#EDE6DA" d="M30,52 L78,52 L78,56 L30,56 Z"/>
+  <path fill="#D9642B" d="M36,36 L43,36 L43,72 L36,72 Z"/>
+  <path fill="#D9642B" d="M65,36 L72,36 L72,72 L65,72 Z"/>
+  <path fill="#A8471B" d="M30,42 L35,42 L35,66 L30,66 Z"/>
+  <path fill="#A8471B" d="M73,42 L78,42 L78,66 L73,66 Z"/>
+  <path fill="#EDE6DA" d="M24,51 L29,51 L29,57 L24,57 Z"/>
+  <path fill="#EDE6DA" d="M79,51 L84,51 L84,57 L79,57 Z"/>
+</svg>
